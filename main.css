@@ -31,3 +31,17 @@ label {
     font-style: italic; /* italic text */
     margin-top: 1rem;
 }
+/* Class Selector - styling inputs, selects, and textarea*/
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"],
+select,
+textarea {
+    width: 100%;
+    padding: 0.8rem; /* internal padding */
+    margin-top: 0.5rem; /* space above input */
+    margin-bottom: 1.5rem; /* space below input */
+    border: 1px solid #ccc; /* light gray border */
+    border-radius: 5px; /* rounded corners */
+}
