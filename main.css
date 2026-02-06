@@ -1,8 +1,16 @@
 /*Element Selector - styling the body background and text*/
 body {
-    background-color: #7b92a7; /* light blue background */
+    background-color: #7b92a7; /*  background color*/
     font-family: Arial, sans-serif; /* sets font for the whole page */
-    color: #241a1a; /* default text color */
+    color: #241a1a; /*  text color */
     font-size: 1.6rem;
     line-height: 1.8;
+}
+/* ID Selector - styling the main heading */
+#main-heading {
+    color: #031c67; /*  blue heading */
+    text-align: center; /* center heading */
+    font-size: 3rem;
+    letter-spacing: 2px; /* spacing between letters */
+    margin-bottom: 2rem;
 }
