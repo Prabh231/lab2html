@@ -1,0 +1,8 @@
+/*Element Selector - styling the body background and text*/
+body {
+    background-color: #7b92a7; /* light blue background */
+    font-family: Arial, sans-serif; /* sets font for the whole page */
+    color: #241a1a; /* default text color */
+    font-size: 1.6rem;
+    line-height: 1.8;
+}
