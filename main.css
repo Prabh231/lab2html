@@ -24,3 +24,10 @@ body {
     border: 2px solid #4d6888; /* blue border */
     border-radius: 10px; /* rounded corners */
 }
+/* Element Selector - styling labels*/
+label {
+    display: block; /* make label a block element */
+    font-weight: bold; /* bold text */
+    font-style: italic; /* italic text */
+    margin-top: 1rem;
+}
