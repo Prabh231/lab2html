@@ -58,4 +58,13 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #357ab8; /* darker blue on hover */
 }
-
+/* Element Selector - styling fieldset and legend*/
+fieldset {
+    border: 1px dashed #2b7614; /* green dashed border */
+    padding: 2rem; /* internal space */
+    margin-bottom: 2rem; /* space below fieldset */
+}
+legend {
+    font-weight: bold;
+    font-size: 2rem;
+}
