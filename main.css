@@ -45,3 +45,17 @@ textarea {
     border: 1px solid #ccc; /* light gray border */
     border-radius: 5px; /* rounded corners */
 }
+/* Styling submit button */
+input[type="submit"] {
+    background-color: #4169E1;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #357ab8; /* darker blue on hover */
+}
+
